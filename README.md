@@ -84,7 +84,7 @@ Les performances dépendent fortement de la taille du quantum
 
 Augmentation des commutations de contexte
 
-📝 Remarques
+# Remarques
 
 Toutes les valeurs de temps sont exprimées en unités de temps arbitraires
 
@@ -96,7 +96,7 @@ Trop petit : commutations de contexte excessives
 
 Trop grand : comportement proche de l’algorithme FCFS
 
-🎓 Objectifs pédagogiques
+ # Objectifs pédagogiques
 
 Ce projet permet de mieux comprendre :
 
